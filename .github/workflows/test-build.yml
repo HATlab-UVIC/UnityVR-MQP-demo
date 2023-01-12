@@ -53,9 +53,8 @@ jobs:
           zip -r ../../StandaloneWindows64.zip .
           popd
 
-      - name: Release
-        uses: softprops/action-gh-release@v1
-        with:
-          files: StandaloneWindows64.zip
-          name: Release v1.1.1
-          allowDirtyBuild: true
+#      - name: Release
+#        uses: softprops/action-gh-release@v1
+#        with:
+#         files: StandaloneWindows64.zip
+#          name: Release v1.1.1
