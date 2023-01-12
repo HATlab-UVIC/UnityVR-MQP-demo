@@ -39,6 +39,7 @@ jobs:
         with:
           unityVersion: 2019.4.40f1
           targetPlatform: StandaloneWindows64 
+          allowDirtyBuild: true
 
       # Output 
       - uses: actions/upload-artifact@v2
@@ -57,3 +58,4 @@ jobs:
         with:
           files: StandaloneWindows64.zip
           name: Release ${{ github.ref }}
+          allowDirtyBuild: true
