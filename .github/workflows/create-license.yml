@@ -1,8 +1,6 @@
 name: Acquire activation file
 
 on:  
-  pull_request:
-    branches: ["main"]
   workflow_dispatch: {}
   
 jobs:
