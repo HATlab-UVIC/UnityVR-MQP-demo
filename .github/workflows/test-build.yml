@@ -57,5 +57,5 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: StandaloneWindows64.zip
-          name: Release ${{ github.ref }}
+          name: Release v1.1.1
           allowDirtyBuild: true
