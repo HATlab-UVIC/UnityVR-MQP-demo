@@ -4,17 +4,17 @@
     "com.microsoft.mixedreality.toolkit.foundation": {
       "tarball": {
         "hash": "f2323a9b7aec",
-        "mtime": 1673344603792,
+        "mtime": 1673688301335,
         "size": 11691469,
-        "localPath": "C:\\Users\\hatla\\OneDrive\\Documents\\GitHub\\UnityVR-basic-application\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+        "localPath": "C:\\Users\\hatla\\OneDrive\\Documents\\GitHub\\UnityVR-MQP-demo\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
       }
     },
     "com.microsoft.mixedreality.toolkit.standardassets": {
       "tarball": {
         "hash": "aab256284dc6",
-        "mtime": 1673344602967,
+        "mtime": 1673688301354,
         "size": 5328617,
-        "localPath": "C:\\Users\\hatla\\OneDrive\\Documents\\GitHub\\UnityVR-basic-application\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+        "localPath": "C:\\Users\\hatla\\OneDrive\\Documents\\GitHub\\UnityVR-MQP-demo\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
       }
     }
   }
