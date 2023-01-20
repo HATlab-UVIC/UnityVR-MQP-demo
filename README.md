@@ -7,7 +7,7 @@ This project needs for long file names to be accepted to be run:
 git config --global core.longpaths true
 ````
 
-## To Do
+##To Do
 - Add scoring
 - Add Pin reset 
 - Add Pins dissapearing when knocked over
